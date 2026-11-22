@@ -6,7 +6,8 @@
 data/*
 !data/README.md
 
-# 노트북·앱 실행 산출물
+# 노트북·앱 실행 산출물 (로컬 실행 시 BASE_DIR 기본값)
+outputs/
 beauty_item_scoring_*.csv
 attr_ontology.csv
 recommendations_*.csv
