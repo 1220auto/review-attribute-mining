@@ -1,0 +1,6 @@
+python 설치
+pip install streamlit numpy pandas scipy scikit-learn
+명령어로 라이브러리들 설치
+
+파일 전부가 있는 경로에서
+streamlit run app_sparse_final.py 명령어 실행
