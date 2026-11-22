@@ -10,6 +10,7 @@ data/*
 outputs/
 beauty_item_scoring_*.csv
 attr_ontology.csv
+prefilter_match_diff.csv
 recommendations_*.csv
 row_parent_asin.csv
 col_aspect_index.csv
